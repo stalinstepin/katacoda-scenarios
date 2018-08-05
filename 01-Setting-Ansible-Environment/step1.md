@@ -1,5 +1,3 @@
-# Step-1
-
 Checking if Ansible is installed on you machine or not.
 
 ## Task
