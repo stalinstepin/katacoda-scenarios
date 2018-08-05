@@ -1,0 +1,34 @@
+{
+  "title": "Setting up the Ansbile environment",
+  "description": "Ansible for beginners",
+  "difficulty": "beginner",
+  "time": "2 minutes",
+  "details": {
+    "steps": [{
+       "title": "Step 1 - Identifying the ansible version.",
+      "text": "step1.md"
+    },
+    {
+      "title": "Step 2 - Installing Ansible Control Machine on Ubuntu.",
+      "text": "step2.md"
+    },
+    {
+      "title": "Step 3 - Next Scenario Details.",
+      "text": "step3.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mSetting up your Interactive Ansbile environment.\r\nLet's being!!\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
