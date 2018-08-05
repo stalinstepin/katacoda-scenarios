@@ -22,7 +22,7 @@ We will be using `apt` package manager to install Ansible on Ubuntu. To get the 
 
 4.) After adding the PPA, you need to run the below command to update `apt` so that it can connect to the Ansible repository and pull the required files for installation.
 
-`sudo apt-get update`){{execute}}
+`sudo apt-get update`{{execute}}
 
 5.) Now you are ready to install Ansible by executing the below command:
 
