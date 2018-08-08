@@ -1,0 +1,52 @@
+{
+  "title": "Identifying your servers.",
+  "description": "Ansible for Advance Users.",
+  "difficulty": "beginner",
+  "time": "5-10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step Title",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Step Title",
+        "text": "step2.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "credits": "",
+    },
+    "finish": {
+      "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "docker-compose.yml",
+          "target": "~/"
+        }
+      ],
+      "host01": [
+        {
+          "file": "config.yml",
+          "target": "~/"
+        }
+      ],
+      "host02": [
+        {
+          "file": "config.yml",
+          "target": "~/"
+        }
+      ]
+    }
+  },
+  "environment": {
+  "uilayout": "terminal",
+  "uimessage1": "\u001b[32mYour Interactive Bash Terminal. A safe place to learn and execute commands.\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "ansible"
+  }
+}
