@@ -24,19 +24,19 @@
     "assets": {
       "client": [
         {
-          "file": "docker-compose.yml",
+          "file": "docker-compose.txt",
           "target": "~/"
         }
       ],
       "host01": [
         {
-          "file": "config.yml",
+          "file": "config.txt",
           "target": "~/"
         }
       ],
       "host02": [
         {
-          "file": "config.yml",
+          "file": "config1.txt",
           "target": "~/"
         }
       ]
